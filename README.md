@@ -22,21 +22,3 @@ To validate the model's performance, a separate Jupyter notebook was used for te
 ## Future Scope
 While the current model yields promising results, there are several avenues for further improvement. Consider exploring advanced CNN architectures such as ResNet, VGG, or DenseNet, which may boost accuracy. Additionally, data augmentation techniques and hyperparameter tuning can potentially enhance the model's generalization capabilities. Moreover, you can investigate transfer learning approaches by using pre-trained models on larger facial emotion datasets, which might lead to even better results.
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Ensure that you have the required dependencies installed (list them if necessary).
-3. Open the "train.ipynb" notebook to train the CNN model on the FER-2013 dataset.
-4. After training, the model will be saved in the "model" folder.
-5. Use the "test.ipynb" notebook to load the saved model and test it on new images or datasets.
-
-## Contributions
-Contributions to this project are welcome! If you have ideas for enhancements, bug fixes, or new features, feel free to submit a pull request.
-
-## License
-Specify the license under which this project is shared (e.g., MIT License, Apache License, etc.).
-
-## Acknowledgments
-Give credit to any resources, tutorials, or code snippets that were helpful in building this project.
-
----
-*Optional: Add any additional details, project screenshots, or demo videos to provide a more comprehensive understanding of the project.*
