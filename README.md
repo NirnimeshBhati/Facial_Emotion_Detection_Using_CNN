@@ -1,8 +1,6 @@
 # Facial_Emotion_Detection_Using_CNN
 **Facial Emotion Detection using CNN (Convolutional Neural Networks)**
 
-![Facial Emotion Detection](https://your-image-url.com)
-
 ## Overview
 This repository contains the code and resources for building a facial emotion detection model using Convolutional Neural Networks (CNNs). The model is trained on the FER-2013 dataset, which consists of facial images labeled with seven emotion classes: angry, disgust, fear, happy, sad, surprise, and neutral. The trained model achieves an accuracy of 85.36% on the test set, showcasing its effectiveness in recognizing emotions from facial expressions.
 
